@@ -38,9 +38,9 @@
 
 ```env
 # База данных
-DB_HOST=postgres
-DB_USER=postgres
-DB_PASSWORD=postgres
+DB_HOST=
+DB_USER=
+DB_PASSWORD=
 DB_NAME=newyear_app
 DB_PORT=5432
 
